@@ -16,7 +16,7 @@ Currently, I am pursuing higher education at MISIS University and have completed
 • 💬 https://t.me/vanyaerem
 
 **Resume:**\
-https://hh.ru/applicant/resumes/view?resume=ce4948dfff0d32ae2b0039ed1f566575584f79
+clck.ru/3DtTKL
 
 **Technology stack:**
 
