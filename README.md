@@ -8,12 +8,12 @@ Currently, I am pursuing higher education at MISIS University and have completed
 
 Contact me:
 
-• ✉️ vanyaeremin2006@yandex.ru
+• ✉️ vanyaeremin2006@yandex.ru\
 • 💬 https://t.me/vanyaerem
 
 Technology stack:
 
-• Python
+• Python\
 • Data preprocessing and analysis:
   * Pandas
   * Seaborn
