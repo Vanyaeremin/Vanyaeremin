@@ -14,13 +14,13 @@ Contact me:
 Technology stack:
 
 • Python\
-• Data preprocessing and analysis:
+• Data preprocessing and analysis:\
   * Pandas
   * Seaborn
   * Matplotlib
   * Phik
-• Classical machine learning algorithms:
+• Classical machine learning algorithms:\
   * Scikit-learn (pipeline writing, linear, tree, and ensemble models)
-• Boosting models:
+• Boosting models:\
   * CatBoost
   * LightGBM
