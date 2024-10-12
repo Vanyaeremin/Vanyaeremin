@@ -1,20 +1,26 @@
-## Ivan Eremin
+## Hello, I'm Ivan Eremin
 
-Data Science/Data Analysis Specialist
+# Data Science/Data Analysis specialist
 
-I'm actively seeking new opportunities in the exciting world of data! 
+Actively seeking a job!
 
-Currently, I'm pursuing higher education at MISIS University and have successfully completed the Data Science specialist program at Yandex.Practicum.
+Currently, I am pursuing higher education at MISIS University and have completed courses from Yandex.Practicum: Data Science specialist.
 
-Connect with me:
+Contact me:
 
-• 📧 Email: vanyaeremin2006@yandex.ru
-• 💬 Telegram: vanyaerem (https://t.me/vanyaerem)
+• ✉️ vanyaeremin2006@yandex.ru
+• 💬 https://t.me/vanyaerem
 
-Technical Skills:
+Technology stack:
 
-• Languages: Python
-• Data Preprocessing & Analysis: Pandas, Seaborn, Matplotlib, Phik
-• Machine Learning: scikit-learn (pipeline writing, linear, tree and ensemble models), boosting models (CatBoost, LightGBM)
-
-Looking forward to collaborating on exciting data-driven projects!
+• Python
+• Data preprocessing and analysis:
+  * Pandas
+  * Seaborn
+  * Matplotlib
+  * Phik
+• Classical machine learning algorithms:
+  * Scikit-learn (pipeline writing, linear, tree, and ensemble models)
+• Boosting models:
+  * CatBoost
+  * LightGBM
