@@ -19,9 +19,9 @@ Technology stack:
   - Pandas
   - Seaborn
   - Matplotlib
-  - Phik
+  - Phik\
 • Classical machine learning algorithms:
-  - Scikit-learn (pipeline writing, linear, tree, and ensemble models)
+  - Scikit-learn (pipeline writing, linear, tree, and ensemble models)\
 • Boosting models:
   - CatBoost
   - LightGBM
