@@ -10,12 +10,12 @@ _________________________________
 
 Currently, I am pursuing higher education at MISIS University and have completed courses from Yandex.Practicum: Data Science specialist.
 
-Contact me:
+**Contact me:**
 
 • ✉️ vanyaeremin2006@yandex.ru\
 • 💬 https://t.me/vanyaerem
 
-Technology stack:
+**Technology stack:**
 
 - Python
 - Data preprocessing and analysis:
