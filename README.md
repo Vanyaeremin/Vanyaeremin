@@ -4,9 +4,6 @@
 
 
 # Data Science/Data Analysis specialist
-_________________________________
-I am actively looking for a job
-_________________________________
 
 Currently, I am pursuing higher education at MISIS University and have completed courses from Yandex.Practicum: Data Science specialist.
 
