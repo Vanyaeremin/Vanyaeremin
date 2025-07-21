@@ -5,8 +5,8 @@
 
 # Data Science/Data Analysis specialist
 
-Currently, I am pursuing higher education at MISIS University and have completed courses from Yandex.Practicum: Data Science specialist. 
-I work for Sber as a data analyst
+Currently, I am pursuing higher education at MISIS University and have completed courses from Yandex.Practicum: Data Science specialist.\
+I work for Sber as a Data Analyst
 
 **Contact me:**
 
