@@ -14,7 +14,7 @@ I work for Sber as a Data Analyst
 • 💬 https://t.me/vanyaerem
 
 **Resume:**\
-clck.ru/3DtTKL
+[clck.ru/3DtTKL](https://disk.yandex.ru/i/tTSj7HGeccv8Vg)
 
 **Technology stack:**
 
@@ -25,6 +25,7 @@ clck.ru/3DtTKL
   - Matplotlib
   - Phik
   - Pyspark
+  - Numpy
 - PostgreSQL
 - Classical machine learning algorithms:
   - Scikit-learn (pipeline writing, linear, tree, and ensemble models)
@@ -32,3 +33,4 @@ clck.ru/3DtTKL
   - CatBoost
   - LightGBM
 - C++
+- Jupiter Notebook, Jira, Confluence
